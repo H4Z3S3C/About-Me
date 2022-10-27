@@ -1,5 +1,5 @@
 
-# Hey there, I'm JackyDev!
+# HazeSec
 
 16 year old programmer and developer
 
