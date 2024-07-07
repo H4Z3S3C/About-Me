@@ -1,7 +1,7 @@
 
 # HazeSec
 
-16 year old programmer and developer
+18 year old programmer and developer
 
 
 ## 🔗 Links
